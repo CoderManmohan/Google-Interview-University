@@ -1,5 +1,3 @@
-# Google-Interview-University
-Google Interview University
 git checkout -b progress
 
 git remote add jwasham https://github.com/jwasham/google-interview-university
